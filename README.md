@@ -26,21 +26,15 @@ The artists can create experiences after the event only to holders of the vip nf
 
 # Tech Stack proposition
 
-## Magic.Link
+## [Magic.Link](https://magic.link/)
+Custodial Wallets
 
-Custodial Wallet
+## [Biconomy](https://www.biconomy.io/)
 
-[https://blog.thirdweb.com/guides/create-magic-wallet/](https://blog.thirdweb.com/guides/create-magic-wallet/)
-
-## Biconomy
-
-[https://www.biconomy.io/](https://www.biconomy.io/)
-
-## MoonPay
+## [MoonPay](https://www.moonpay.com/)
 
 Pay with credit card
 
-[https://www.moonpay.com/](https://www.moonpay.com/)
 
 ## Alchemy
 
