@@ -26,6 +26,8 @@ The artists can create experiences after the event only to holders of the vip nf
 
 # Tech Stack proposition
 
+## [Push Protocol]([https://magic.link/](https://push.org/))
+
 ## [Magic.Link](https://magic.link/)
 Custodial Wallets
 
