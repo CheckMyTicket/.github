@@ -47,3 +47,11 @@ Pay with credit card
 [https://github.com/alchemyplatform/create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
 
 ## Polygon
+
+
+# Team
+
+Robert Ramirez
+
+- Linkedin: [robert-ramirez-marin](https://www.linkedin.com/in/robert-ramirez-marin/)
+- Twitter: [robertramdev](https://twitter.com/robertramdev)
