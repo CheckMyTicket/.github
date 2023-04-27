@@ -1,3 +1,7 @@
+# CheckMyTicket
+
+CheckMyTicket is a platform that uses blockchain technology to sell event tickets, addressing problems such as slow website performance during ticket releases and ticket resale scams. The platform creates a relationship between customers and artists, allowing customers to buy NFTs that represent tickets and giving them access to exclusive artist communities and merchandise. The platform charges a fee for each ticket sale and artists receive royalties from ticket resale profits. The platform allows users to purchase tickets using cryptocurrency or credit cards, and a custodial wallet is provided for non-web3 users.
+
 # Problems
 
 ## Problem #1
@@ -49,3 +53,10 @@ Pay with credit card
 
 - Linkedin: [robert-ramirez-marin](https://www.linkedin.com/in/robert-ramirez-marin/)
 - Twitter: [robertramdev](https://twitter.com/robertramdev)
+
+### Rafael Molina
+
+- Linkedin: [rafael-molina-6649ab66](https://www.linkedin.com/in/rafael-molina-6649ab66)
+- Twitter: [RafaelSMolina](https://twitter.com/RafaelSMolina)
+
+
