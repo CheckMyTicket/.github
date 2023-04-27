@@ -59,4 +59,18 @@ Pay with credit card
 - Linkedin: [rafael-molina-6649ab66](https://www.linkedin.com/in/rafael-molina-6649ab66)
 - Twitter: [RafaelSMolina](https://twitter.com/RafaelSMolina)
 
+### Laura Isabel Zabaleta
+
+- Linkedin: [laurazabaletam](https://www.linkedin.com/in/laurazabaletam/)
+- Twitter: [laurazabaletam](https://twitter.com/laurazabaletam)
+
+###  José Flores
+
+- Linkedin: [xfirepc](https://www.linkedin.com/in/xfirepc/)
+- Twitter: [xfirepc](https://twitter.com/xfirepc)
+
+###   Federico Achaval
+
+- Linkedin: [federicoachaval](https://www.linkedin.com/in/federicoachaval/)
+- Twitter: [Ryonendev](https://twitter.com/Ryonendev)
 
