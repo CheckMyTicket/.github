@@ -53,5 +53,5 @@ Pay with credit card
 
 ### Robert Ramirez
 
-- Linkedin: [robert-ramirez-marin](https://www.linkedin.com/in/robert-ramirez-marin/)
+- Linkedin: [robert-ramirez-marin](https://www.linkedin.com/in/robert-ramirez-marin/){:target="_blank"}
 - Twitter: [robertramdev](https://twitter.com/robertramdev)
