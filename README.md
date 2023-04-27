@@ -35,13 +35,11 @@ Custodial Wallets
 
 Pay with credit card
 
+## [Alchemy](https://www.alchemy.com/)
 
-## Alchemy
+[create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
 
-[https://github.com/alchemyplatform/create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
-
-## Polygon
-
+## [Polygon](https://polygon.technology/)
 
 # Team
 
