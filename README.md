@@ -1,6 +1,6 @@
 # CheckMyTicket
 
-CheckMyTicket is a platform that uses blockchain technology to sell event tickets, addressing problems such as slow website performance during ticket releases and ticket resale scams. The platform creates a relationship between customers and artists, allowing customers to buy NFTs that represent tickets and giving them access to exclusive artist communities and merchandise. The platform charges a fee for each ticket sale and artists receive royalties from ticket resale profits. The platform allows users to purchase tickets using cryptocurrency or credit cards, and a custodial wallet is provided for non-web3 users.
+CheckMyTicket is a platform that uses blockchain technology to sell event tickets, addressing problems such as ticket reselling and artist royalties. The platform creates a relationship between customers and artists, allowing customers to buy NFTs that represent tickets and giving them access to exclusive artist communities and merchandise. 
 
 # Problems
 
