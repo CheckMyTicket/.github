@@ -30,22 +30,22 @@ The artists can create experiences after the event only to holders of the vip nf
 
 # Tech Stack proposition
 
-## [Push Protocol]([https://magic.link/](https://push.org/))
+### [Push Protocol](https://push.org/)
 
-## [Magic.Link](https://magic.link/)
+### [Magic.Link](https://magic.link/)
 Custodial Wallets
 
-## [Biconomy](https://www.biconomy.io/)
+### [Biconomy](https://www.biconomy.io/)
 
-## [MoonPay](https://www.moonpay.com/)
+### [MoonPay](https://www.moonpay.com/)
 
 Pay with credit card
 
-## [Alchemy](https://www.alchemy.com/)
+### [Alchemy](https://www.alchemy.com/)
 
 [create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
 
-## [Polygon](https://polygon.technology/)
+### [Polygon](https://polygon.technology/)
 
 # Team
 
