@@ -2,6 +2,11 @@
 
 With blockchain technologies, we expect to create a more open, transparent and fair platform for all users and artist. By giving them the opportunity to create more utility to their tickets before, during and after an event. And producing an everlasting nft that can be used in creative ways such as VIP access, meet and greets, offers, digital collectibles, access tokens, etc. And  empowering artist with royalties obtained from every trade made inside the platform. Although the resell can not be stop completely with our marketplace we offer a safeplace for nfts owner to trade their tickets/nfts.
 
+# Social
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checmyticket/)
+
+
 # Problems
 
 ## Problem #1
