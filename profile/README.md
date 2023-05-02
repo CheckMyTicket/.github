@@ -5,7 +5,7 @@ With blockchain technologies, we expect to create a more open, transparent and f
 # Social
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checmyticket/)
- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checmyticket/)
+ [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/company/checmyticket/)
  https://img.shields.io/badge/Twitter-brightgreen?logo=twitter
 
 
