@@ -14,12 +14,30 @@ With blockchain technologies, we expect to create a more open, transparent and f
 [Explore](https://www.checkmyticket.xyz/explore)
 <img width="1440" alt="Screenshot 2024-02-27 at 11 08 42 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/87c1c0db-829e-4012-8079-1b0f26e424e8">
 
+## Social login
+<img width="530" alt="Screenshot 2024-02-27 at 11 14 07 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/92bc9dc9-9476-4686-936e-4c0ac3de61ae">
+
 ## Push Protocol notifications
 <img width="1440" alt="Screenshot 2024-02-27 at 11 08 10 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/7ddd6de3-2bcb-4c20-bbec-dbf6be3b085a">
 
 ## Event details with multichain capabilities
-<img width="1440" alt="Screenshot 2024-02-27 at 11 08 42 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/80fdf058-9e18-454b-a535-b601029ef6eb">
+<img width="1440" alt="Screenshot 2024-02-27 at 11 10 14 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/9aa7660e-2a18-4b2b-be72-0c93365c76bd">
 
+## Credit/Debit Card Checkout with Thirdweb
+<img width="1134" alt="Screenshot 2024-02-27 at 11 12 22 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/79549779-987c-4594-8ec9-5eed980b11ea">
+<img width="1139" alt="Screenshot 2024-02-27 at 11 12 53 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/8f524409-a30e-406e-8989-37faeb229324">
+
+## See your nft ticket details
+<img width="1440" alt="Screenshot 2024-02-27 at 11 15 03 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/a62b7de5-3916-4d28-aea5-4aabd3e6930f">
+
+## Use the QR code to enter the event
+<img width="1440" alt="Screenshot 2024-02-27 at 11 15 12 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/bf95b304-392b-4d89-b695-f0bd3c505b8f">
+
+## As an event organizer, see the categories and tickets sold
+<img width="1440" alt="Screenshot 2024-02-27 at 11 16 30 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/d44f413b-9b14-4801-9363-769e6f98a6ed">
+
+## Keep track of the orders
+<img width="1440" alt="Screenshot 2024-02-27 at 11 17 11 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/01cf90a8-6ca0-4564-8167-68ff7ed7a6ff">
 
 
 # Tech Stack 
