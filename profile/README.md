@@ -111,6 +111,7 @@ https://twitter.com/EthereumCR/status/1723904057205465415
 https://twitter.com/checkmyticket/status/1725910666211385367
 https://twitter.com/checkmyticket/status/1726648148897247444
 https://twitter.com/robertramdev/status/1726651104438673819
+https://twitter.com/EthereumCR/status/1732917415410061486
 
 ## Menos Polarización, Más Empatía en la Gobernanza: el rol de la Neutrosofía (first event), by Ethereum Costa Rica
 Date: Sept 13, 2013
