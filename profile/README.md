@@ -4,9 +4,10 @@ With blockchain technologies, we expect to create a more open, transparent and f
 
 # Social
 
+ [![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.checkmyticket.xyz)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checkmyticket)
  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/checkmyticket)
- [Instagram](https://www.instagram.com/checkmyticket.xyz/)
+ [![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/checkmyticket.xyz/)
 
 # Features
 
