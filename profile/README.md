@@ -31,6 +31,12 @@ With blockchain technologies, we expect to create a more open, transparent and f
 ## See your nft ticket details
 <img width="1440" alt="Screenshot 2024-02-27 at 11 15 03 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/a62b7de5-3916-4d28-aea5-4aabd3e6930f">
 
+## Share exclusive content to event attendees
+<img width="1440" alt="Screenshot 2024-02-27 at 11 20 18 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/8d8a4a16-d4c2-4aeb-9332-b75a67201fd6">
+
+## See a counter for virtual events and click click the meeting link when it starts
+<img width="1132" alt="Screenshot 2024-02-27 at 11 21 21 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/3c0bedbc-4186-45db-ab15-71559e8374d7">
+
 ## Use the QR code to enter the event
 <img width="1440" alt="Screenshot 2024-02-27 at 11 15 12 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/bf95b304-392b-4d89-b695-f0bd3c505b8f">
 
