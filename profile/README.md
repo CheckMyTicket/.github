@@ -79,6 +79,46 @@ With blockchain technologies, we expect to create a more open, transparent and f
 - Twitter: [robertramdev](https://twitter.com/robertramdev)
 
 
+# Past events
+
+## Intro a Blockchain, by CheckMyTicket (first virtual event)
+Date: Feb 21, 2023
+https://twitter.com/checkmyticket/status/1760018250492997847
+https://twitter.com/checkmyticket/status/1760780571507081560
+
+## Día Optimista, by InbestProgram
+Date: Feb 16, 2023
+https://twitter.com/checkmyticket/status/1758707248719659070
+https://twitter.com/InBestProgram/status/1758168021762179498
+https://twitter.com/checkmyticket/status/1758931583950536849
+
+## Comunicación Web3, by Pizza DAO + Push Protocol
+Date: Oct 26, 2023
+https://twitter.com/checkmyticket/status/1716550217049202929
+https://twitter.com/checkmyticket/status/1717369830091768007
+https://twitter.com/checkmyticket/status/1717594407803740556
+https://twitter.com/checkmyticket/status/1718033966823825728
+
+## Ethereum Costa Rica Day, by Ethereum Costa Rica
+Date: Nov 18, 2023
+https://twitter.com/checkmyticket/status/1709391989370745049
+https://twitter.com/ottomorac/status/1712571195420213471
+https://twitter.com/EthereumCR/status/1713327218611335396
+https://twitter.com/EthereumCR/status/1715012458690273568
+https://twitter.com/EthereumCR/status/1715012482513907945
+https://twitter.com/checkmyticket/status/1718112796095701456
+https://twitter.com/EthereumCR/status/1723904057205465415
+https://twitter.com/checkmyticket/status/1725910666211385367
+https://twitter.com/checkmyticket/status/1726648148897247444
+https://twitter.com/robertramdev/status/1726651104438673819
+
+## Menos Polarización, Más Empatía en la Gobernanza: el rol de la Neutrosofía (first event), by Ethereum Costa Rica
+Date: Sept 13, 2013
+
+https://twitter.com/robertramdev/status/1701466311572754771
+https://twitter.com/robertramdev/status/1702103301959909777
+https://twitter.com/robertramdev/status/1702104332668223935
+
 <!--
 
 **Here are some ideas to get you started:**
