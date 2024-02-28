@@ -1,11 +1,12 @@
 # CheckMyTicket
 
-With blockchain technologies, we expect to create a more open, transparent and fair platform for all users and artist. By giving them the opportunity to create more utility to their tickets before, during and after an event. And producing an everlasting nft that can be used in creative ways such as VIP access, meet and greets, offers, digital collectibles, access tokens, etc. And  empowering artist with royalties obtained from every trade made inside the platform. Although the resell can not be stop completely with our marketplace we offer a safeplace for nfts owner to trade their tickets/nfts.
+With blockchain technologies, we expect to create a more open, transparent and fair platform for all users and artist. By giving them the opportunity to create more utility to their tickets before, during and after an event. And producing an everlasting nft that can be used in creative ways such as VIP access, meet and greets, offers, digital collectibles, access tokens, etc. And  empowering artist with royalties obtained from every trade made inside the platform. And with our marketplace we will offer a safe place for nfts owner to trade their tickets/nfts.
 
 # Social
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checkmyticket)
  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/checkmyticket)
+ [![Instagram]](https://www.instagram.com/checkmyticket.xyz/)
 
 # Problems
 
@@ -33,24 +34,29 @@ Customers forgets about the concert/event right after it finishes.
 
 The artists can create experiences after the event only to holders of the vip nfts. Making those nfts even more valuable and encouraging people to buy after the event.
 
-# Tech Stack proposition
+# Tech Stack 
+
+### [NextJS](https://nextjs.org/)
+
+### Typescript
+
+### Tailwindcss
+
+### [Firebase](https://firebase.google.com)
+
+### [Thirdweb](https://thirdweb.com/)
 
 ### [Push Protocol](https://push.org/)
 
-### [Magic.Link](https://magic.link/)
-Custodial Wallets
 
-### [Biconomy](https://www.biconomy.io/)
+## Blockchains Available
 
-### [MoonPay](https://www.moonpay.com/)
+### [Arbitrum](https://arbitrum.io/)
 
-Pay with credit card
-
-### [Alchemy](https://www.alchemy.com/)
-
-[create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
+### [Optimism](https://www.optimism.io/)
 
 ### [Polygon](https://polygon.technology/)
+
 
 # Team
 
