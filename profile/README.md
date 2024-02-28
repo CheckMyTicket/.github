@@ -4,7 +4,7 @@ With blockchain technologies, we expect to create a more open, transparent and f
 
 # Social
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checmyticket/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checkmyticket)
  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/checkmyticket)
 
 # Problems
@@ -58,26 +58,6 @@ Pay with credit card
 
 - Linkedin: [robert-ramirez-marin](https://www.linkedin.com/in/robert-ramirez-marin/)
 - Twitter: [robertramdev](https://twitter.com/robertramdev)
-
-### Rafael Molina
-
-- Linkedin: [rafael-molina-6649ab66](https://www.linkedin.com/in/rafael-molina-6649ab66)
-- Twitter: [RafaelSMolina](https://twitter.com/RafaelSMolina)
-
-### Laura Isabel Zabaleta
-
-- Linkedin: [laurazabaletam](https://www.linkedin.com/in/laurazabaletam/)
-- Twitter: [laurazabaletam](https://twitter.com/laurazabaletam)
-
-###  José Flores
-
-- Linkedin: [xfirepc](https://www.linkedin.com/in/xfirepc/)
-- Twitter: [xfirepc](https://twitter.com/xfirepc)
-
-###   Federico Achaval
-
-- Linkedin: [federicoachaval](https://www.linkedin.com/in/federicoachaval/)
-- Twitter: [Ryonendev](https://twitter.com/Ryonendev)
 
 
 <!--
