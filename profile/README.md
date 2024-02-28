@@ -6,33 +6,21 @@ With blockchain technologies, we expect to create a more open, transparent and f
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/checkmyticket)
  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/checkmyticket)
- [![Instagram]](https://www.instagram.com/checkmyticket.xyz/)
+ [Instagram](https://www.instagram.com/checkmyticket.xyz/)
 
-# Problems
+# Features
 
-## Problem #1
+## Events homepage
+[Explore](https://www.checkmyticket.xyz/explore)
+<img width="1440" alt="Screenshot 2024-02-27 at 11 08 42 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/87c1c0db-829e-4012-8079-1b0f26e424e8">
 
-Resell is a big problem because normal platforms don't have a way of reselling inside the platform. 
+## Push Protocol notifications
+<img width="1440" alt="Screenshot 2024-02-27 at 11 08 10 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/7ddd6de3-2bcb-4c20-bbec-dbf6be3b085a">
 
-### Solution
+## Event details with multichain capabilities
+<img width="1440" alt="Screenshot 2024-02-27 at 11 08 42 PM" src="https://github.com/CheckMyTicket/.github/assets/37461123/80fdf058-9e18-454b-a535-b601029ef6eb">
 
-The platform uses blockchain to allow users to transfer nfts to another wallets. Also allows people to make offers to the nfts and the current owner to sell. 
 
-## Problem #2
-
-Artists don't get royalties for the resells. 
-
-### Solution
-
-By allowing the tickets to resell inside the platform, the artists can get a percentage of the sell as a royalty. 
-
-## Problem #3
-
-Customers forgets about the concert/event right after it finishes. 
-
-### Solution
-
-The artists can create experiences after the event only to holders of the vip nfts. Making those nfts even more valuable and encouraging people to buy after the event.
 
 # Tech Stack 
 
